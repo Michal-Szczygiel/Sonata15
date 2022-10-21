@@ -1,0 +1,1 @@
+W tym katalogu należy umieścić bazę danych.

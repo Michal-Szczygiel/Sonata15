@@ -1,0 +1,1 @@
+Ten katalog przeznaczony jest na wynikową SQL'ową bazę danych.
